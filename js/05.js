@@ -5,6 +5,8 @@ const numero2 = 200;
 const numero3 = 200.20;
 const numero4 = .15;
 const numero5 = -5;
+const numero6 = 11;
+const numero7 = 3;
 
 
 console.log(nombre);
@@ -15,5 +17,6 @@ console.log(numero4);
 console.log(numero5);
 console.log(numero3 + numero2);
 console.log(numero3 - numero2);
+console.log(numero3 - numero2);
+console.log(numero6 % numero7); //Residuo entre dos numeros (operador modulo)
 
-¿¿
